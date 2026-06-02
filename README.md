@@ -1,8 +1,7 @@
 # Chinmaya Shrivastava | Gameplay Programmer & Systems Designer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=flat-square&logo=wechat)](YOUR_PORTFOLIO_URL)
-[![itch.io](https://img.shields.io/badge/itch.io-Play_Builds-FA5C5C?style=flat-square&logo=itchdotio)](YOUR_ITCH_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chinmaya-shrivastava-027483270/)
+[![itch.io](https://img.shields.io/badge/itch.io-Play_Builds-FA5C5C?style=flat-square&logo=itchdotio)](https://cryptixthala.itch.io/)
 
 I am a Game Development student (BCA) at Seamedu & The NorthCap University, specializing in building responsive core mechanics, modular systems architecture, and real-time multiplayer networking loops. My development philosophy centers on writing clean, scalable code that translates into highly polished player experiences.
 
